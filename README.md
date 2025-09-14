@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1006-vowel-spellchecker](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1006-vowel-spellchecker) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3462-vowels-game-in-a-string) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0679-24-game) |
+| [1006-vowel-spellchecker](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1006-vowel-spellchecker) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0037-sudoku-solver) |
+| [1006-vowel-spellchecker](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1006-vowel-spellchecker) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Geometry
 |  |
