@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3827-implement-router](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3827-implement-router) |
 ## Backtracking
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
+| [3827-implement-router](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Geometry
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
+| [3827-implement-router](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -152,4 +155,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
+| [3827-implement-router](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3827-implement-router) |
+## Binary Search
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3827-implement-router) |
+## Queue
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
