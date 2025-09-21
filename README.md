@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1006-vowel-spellchecker) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1628-count-submatrices-with-all-ones) |
+| [2023-design-movie-rental-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0037-sudoku-solver) |
 | [1006-vowel-spellchecker](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2023-design-movie-rental-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
 | [3827-implement-router](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -145,15 +147,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
 | [3827-implement-router](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
 | [3827-implement-router](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3827-implement-router) |
 ## Binary Search
