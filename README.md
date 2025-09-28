@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0679-24-game](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1448-maximum-69-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1448-maximum-69-number) |
 ## Array
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2023-design-movie-rental-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2023-design-movie-rental-system) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
