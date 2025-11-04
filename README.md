@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Simulation
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3827-implement-router](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Geometry
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Ordered Set
 |  |
 | ------- |
