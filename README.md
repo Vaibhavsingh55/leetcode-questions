@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3827-implement-router](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3827-implement-router](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Geometry
 |  |
@@ -240,12 +242,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
 | [3827-implement-router](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -279,15 +283,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -298,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
