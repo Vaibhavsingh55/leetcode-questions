@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0474-ones-and-zeroes](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0120-triangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0679-24-game) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0120-triangle) |
+| [0474-ones-and-zeroes](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0474-ones-and-zeroes) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1628-count-submatrices-with-all-ones) |
