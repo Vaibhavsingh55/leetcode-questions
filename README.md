@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/0794-swim-in-rising-water) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2625-increment-submatrices-by-one](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2625-increment-submatrices-by-one) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Bitmask
