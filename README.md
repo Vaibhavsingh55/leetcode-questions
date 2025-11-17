@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vaibhavsingh55/leetcode-questions/tree/master/1628-count-submatrices-with-all-ones) |
